@@ -44,7 +44,6 @@ function App() {
       localidade,
       uf,
     };
-
     console.log("Dados a serem salvos:", data);
   };
 
